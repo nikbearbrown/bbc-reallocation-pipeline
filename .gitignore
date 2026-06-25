@@ -1,0 +1,6 @@
+private/
+data/ats/
+node_modules/
+.env
+*.local
+data/bbc/client-quality-scores.json

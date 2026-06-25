@@ -1,0 +1,11 @@
+{
+  "name": "bbc-reallocation-pipeline",
+  "version": "0.1.0",
+  "description": "Silent contract sourcing pipeline for Bear Brown LLC",
+  "scripts": {
+    "verify": "node scripts/verify.js",
+    "doctor": "node scripts/doctor.js",
+    "score": "node scripts/score.js",
+    "brief": "node scripts/combiner/generate-brief.js"
+  }
+}
