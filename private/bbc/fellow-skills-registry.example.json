@@ -1,0 +1,29 @@
+[
+  {
+    "fellow_id": "F-001",
+    "verified_skills": ["RAG", "LangGraph", "Python", "evals"],
+    "public_work_url": "https://github.com/example/agent-eval-harness",
+    "public_work_verified": true,
+    "hours_available_weekly": 12,
+    "trajectory": "applied ML engineer",
+    "domain_credentials": []
+  },
+  {
+    "fellow_id": "F-002",
+    "verified_skills": ["React", "TypeScript", "Node", "REST APIs"],
+    "public_work_url": "https://github.com/example/fullstack-demo",
+    "public_work_verified": true,
+    "hours_available_weekly": 20,
+    "trajectory": "full-stack / founding engineer",
+    "domain_credentials": []
+  },
+  {
+    "fellow_id": "F-003",
+    "verified_skills": ["clinical data", "annotation", "Python"],
+    "public_work_url": null,
+    "public_work_verified": false,
+    "hours_available_weekly": 8,
+    "trajectory": "clinical eval specialist",
+    "domain_credentials": ["RN — clinical background"]
+  }
+]

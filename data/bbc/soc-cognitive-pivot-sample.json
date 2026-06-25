@@ -1,0 +1,20 @@
+{
+  "_provenance": {
+    "source": "the-reallocation-engine/data/BLS/compact/soc_occupation_compact.csv",
+    "field": "cognitive_pivot_score",
+    "scale": "0-5 (higher = more resistant to near-term automation)",
+    "oews_year": 2024,
+    "note": "Verified rows copied for the BBC GATE-4 stub. A null score means the field is absent in the source aggregate row — report it as a gap, never infer it. Replace this sample with the full table for production use."
+  },
+  "rows": {
+    "15-1221": { "title": "Computer & Information Research Scientists", "cognitive_pivot_score": 4.516, "hourly_median": 67.74, "annual_median": 140910 },
+    "15-1252": { "title": "Software Developers", "cognitive_pivot_score": 3.834, "hourly_median": 63.98, "annual_median": 133080 },
+    "15-1253": { "title": "Software QA Analysts & Testers", "cognitive_pivot_score": 3.582, "hourly_median": 49.33, "annual_median": 102610 },
+    "15-2051": { "title": "Data Scientists (aggregate)", "cognitive_pivot_score": null, "hourly_median": 54.13, "annual_median": 112590 },
+    "15-2041": { "title": "Statisticians", "cognitive_pivot_score": 3.958, "hourly_median": 49.66, "annual_median": 103300 },
+    "15-1211": { "title": "Computer Systems Analysts", "cognitive_pivot_score": 4.024, "hourly_median": 49.90, "annual_median": 103790 },
+    "15-1299": { "title": "Computer Occupations, All Other", "cognitive_pivot_score": null, "hourly_median": 52.39, "annual_median": 108970 },
+    "29-9099": { "title": "Healthcare Practitioners, All Other", "cognitive_pivot_score": null, "hourly_median": 30.78, "annual_median": 64030 },
+    "23-2099": { "title": "Legal Support Workers, All Other", "cognitive_pivot_score": null, "hourly_median": 33.06, "annual_median": 68760 }
+  }
+}

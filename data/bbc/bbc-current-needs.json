@@ -1,0 +1,22 @@
+{
+  "_note": "Manually seeded. The combiner overwrites the demand picture as it learns; this file is public and contains no personal data.",
+  "updated": "2026-06-25",
+  "rate_floor_fellow_usd_hr": 25,
+  "client_floor_usd_hr": 40,
+  "interrupt_threshold_bbc_net_usd_hr": 15,
+  "cognitive_pivot_floor": 3.5,
+  "skill_areas": [
+    { "area": "RAG systems", "demand": "high" },
+    { "area": "Agentic builds (LangGraph / tool-use)", "demand": "high" },
+    { "area": "ML / applied research", "demand": "medium" },
+    { "area": "MLOps infrastructure", "demand": "medium" },
+    { "area": "Domain-credentialed eval work", "demand": "medium" }
+  ],
+  "preferred_platforms_ranked": [
+    "ai-tinkerers",
+    "yc-networks",
+    "braintrust",
+    "latent-space-mlops",
+    "upwork"
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "fellow_id": "F-001",
+    "client": "REDACTED",
+    "channel": "braintrust",
+    "hours_committed_weekly": 8,
+    "weeks_remaining": 4,
+    "started": "2026-06-01"
+  },
+  {
+    "fellow_id": "F-002",
+    "client": "REDACTED",
+    "channel": "yc-networks",
+    "hours_committed_weekly": 20,
+    "weeks_remaining": 2,
+    "started": "2026-06-10"
+  }
+]

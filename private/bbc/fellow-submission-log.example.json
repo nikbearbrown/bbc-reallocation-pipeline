@@ -1,0 +1,20 @@
+[
+  {
+    "fellow_id": "F-001",
+    "platform": "braintrust",
+    "url_hash": "sha256:redacted",
+    "outcome": "surfaced",
+    "gate_failed": null,
+    "first_refusal": true,
+    "submitted_at": "2026-06-18"
+  },
+  {
+    "fellow_id": "F-002",
+    "platform": "upwork",
+    "url_hash": "sha256:redacted",
+    "outcome": "held",
+    "gate_failed": "GATE-2",
+    "first_refusal": false,
+    "submitted_at": "2026-06-20"
+  }
+]

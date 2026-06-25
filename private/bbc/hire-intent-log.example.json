@@ -1,0 +1,24 @@
+[
+  {
+    "company": "Example AI Inc",
+    "signals": ["recent-raise", "named-FT-req", "founder-post"],
+    "signal_count": 3,
+    "source_channel": "yc-networks",
+    "form_d_raise_usd": 1200000,
+    "form_d_age_months": 7,
+    "logged_at": "2026-06-01",
+    "conversion_followup_due": "2026-09-01",
+    "converted": null
+  },
+  {
+    "company": "Example Labs",
+    "signals": ["recent-raise"],
+    "signal_count": 1,
+    "source_channel": "braintrust",
+    "form_d_raise_usd": 600000,
+    "form_d_age_months": 14,
+    "logged_at": "2026-06-12",
+    "conversion_followup_due": "2026-09-12",
+    "converted": null
+  }
+]
