@@ -95,7 +95,7 @@ These are hard stops. No exceptions, regardless of how interesting the work look
 - **Scope implying < $25/hr to the fellow** after BBC's costs.
 - **Layer 1 wrapper work** — "build me a ChatGPT chatbot" with no RAG, agent, or domain complexity.
 - **Clients with < $5K lifetime spend** on the platform — unproven buyers.
-- **Work scoring < 65 on the cognitive-pivot scorer** — tasks that map to work likely to be automated within ~18 months. We place you where your judgment compounds, not where it's about to be commoditized.
+- **Work scoring below 3.5 on the cognitive-pivot scorer** (a 0–5 scale, where higher means more resistant to near-term automation) — tasks that map to work likely to be automated within ~18 months. We place you where your judgment compounds, not where it's about to be commoditized.
 - **Any scope where the BBC principal would have to *execute* the work** rather than supervise it. BBC supplies supervised fellow talent; it is not a one-person shop.
 
 ---
